@@ -19,7 +19,7 @@
 
 /* Custom CSS for the background image */
 .jumbotron {
-  background-image: url('./images/background2.jpg'); /* Replace 'your-image-url.jpg' with the actual image URL */
+  background-image: url('./images/image-1.jpg'); /* Replace 'your-image-url.jpg' with the actual image URL */
   background-size: contain;
   background-position: center;
   height: 558px;
@@ -28,6 +28,16 @@
   padding: 51px; /* Adjust padding as needed */
 }
 
+/* Add this CSS to your stylesheet */
+.glowing-circle {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    padding: 30px; /* Adjust padding as needed */
+  }
+  
+  .glow-image {
+    border: 5px solid #fff; /* White border around the image */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.7); /* Glowing effect */
+  }
 
 .navbar{
 height: 85px;
