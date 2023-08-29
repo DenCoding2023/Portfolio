@@ -1,3 +1,5 @@
+//Resume page//
+
 import React from "react";
 import myResume from "../../assets/files/Lindsey_Martin_Resume_2023.pdf";
 import { BsCloudDownload } from "react-icons/bs";
@@ -15,11 +17,11 @@ function Resume() {
         <div className="flex-row">
           <div className="download-info">
             <div className="download-text">
-              <a href={myResume} className="download-logo" download>
+              <a href={''} className="download-logo" download>
                 <BsCloudDownload />
               </a>
               <p>
-                Please feel free to check out my list of Developer
+                I am proficiente in the following areas of Full Stack Developer
                 Proficiencies!
               </p>
             </div>
