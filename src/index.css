@@ -197,7 +197,7 @@ header nav ul li a:hover {
 /* REACH OUT STYLES START */
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: #959191;
 }
 
 #reach-out h2 {
@@ -623,7 +623,7 @@ label {
 @media screen and (max-width: 980px) {
   header {
     padding-bottom: 0;
-    justify-content: center;
+    justify-content: space-between;
     position: relative;
 
   }
