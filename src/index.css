@@ -66,7 +66,7 @@ header h1 {
   margin: 0;
   font-size: 36px;
   color: #0E5259;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  /* text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
 }
 
 
@@ -144,7 +144,7 @@ header nav ul li a:hover {
   font-style: italic;
   font-size: 55px;
   color: #60a41f;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  /* text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
 }
 /* Text in the image*/
 .hero-cta p {
@@ -545,8 +545,8 @@ footer {
 
 footer h2 {
 
-  color: #75BFB2;
-  font-size: 15px;
+  color: #285950;
+  font-size: 38px;
   margin: 0;
 }
 

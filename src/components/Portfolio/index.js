@@ -24,7 +24,7 @@ function Portfolio() {
                 <img
                   src={weatherImage}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="Weather-Dashboard"
                 />
               </a>
@@ -49,7 +49,7 @@ function Portfolio() {
                 <img
                   src={weatherPImage}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="WeatherP"
                 />
               </a>
@@ -76,7 +76,7 @@ function Portfolio() {
                 <img
                   src={ecomercePImages}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="Ecomerce Project"
                 />
               </a>
@@ -103,7 +103,7 @@ function Portfolio() {
                 <img
                   src={noteTakerImage}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="Note_Taker"
                 />
               </a>
@@ -127,7 +127,7 @@ function Portfolio() {
                 <img
                   src={passworG}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="Password Generator"
                 />
               </a>
@@ -152,7 +152,7 @@ function Portfolio() {
                 <img
                   src={refractoring}
                   className="my-2"
-                  style={{ width: "100%" }}
+                  style={{ width: "150%" }}
                   alt="Refactoring"
                 />
               </a>
