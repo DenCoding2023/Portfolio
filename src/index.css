@@ -139,17 +139,17 @@ header nav ul li a:hover {
   font-size: 18px;
   line-height: 1.2;
 }
-
+/*About me text color */
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
-  color: #0E5259;
+  color: #60a41f;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-
+/* Text in the image*/
 .hero-cta p {
   font-size: 25px;
-  color: #328C83;
+  color: #fcfcfc;
 }
 
 /* hero-cta end */

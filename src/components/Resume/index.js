@@ -1,8 +1,7 @@
 //Resume page//
 
 import React from "react";
-import resumeDenn from "../../assets/files/Denn";
-import myResume from "../../assets/files/Denn";
+import myResume from "../../assets/files/Denn.pdf";
 import { BsCloudDownload } from "react-icons/bs";
 import { MdFoundation } from "react-icons/md";
 import { GrTechnology } from "react-icons/gr";
@@ -18,7 +17,7 @@ function Resume() {
         <div className="flex-row">
           <div className="download-info">
             <div className="download-text">
-              <a href={resumeDenn} className="download-logo" download>
+              <a href={myResume} className="download-logo" download>
                 <BsCloudDownload />
               </a>
               <p>
