@@ -1,10 +1,7 @@
 import React from "react";
-import homeBrewImage from "../../assets/small/HomeBrew.png";
-import summerPunchImage from "../../assets/small/Summer_Punch.png";
-import weatherDashImage from "../../assets/small/Weather_Dash.png";
+
 import noteTakerImage from "../../assets/small/Note-taker.jpg";
-import twilightImage from "../../assets/small/Twilight_Ristorante.png";
-import flowerImage from "../../assets/small/Sweet-Pea-Flowers.png";
+
 import weatherPImage from  "../../assets/small/weatherP.jpg";
 import weatherImage from "../../assets/small/weather-site.jpg";
 import ecomercePImages from "../../assets/small/EcomerceP.jpg";
